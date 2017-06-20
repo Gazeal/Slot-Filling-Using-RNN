@@ -1,0 +1,5 @@
+{
+"test error": 0.8220338983050848,
+"model": "best_model.h5",
+"test prediction result": "current.test.txt"
+}

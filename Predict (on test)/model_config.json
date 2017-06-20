@@ -1,0 +1,1 @@
+{"batch": 234, "nepochs": 20, "nhidden": 100, "emb_dimension": 100, "dataset": "atis.pkl", "lr": 0.001}
